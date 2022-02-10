@@ -1,0 +1,27 @@
+h1 {
+    color: blue;
+    text-align: center;
+}
+
+img {
+    height: auto;
+    width: 500px;
+    /* margin: auto;
+    display: block; <-- this allows the image to be centered. YEt to learn after Foundations CSS 11/2/22*/ 
+}
+
+.headings {
+    background: red;
+    font-size: 30px;
+    font-weight: 700
+}
+
+.text {
+    color:green;
+}
+
+h2,
+h4,
+.headings {
+    text-align: center;
+}
